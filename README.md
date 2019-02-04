@@ -1,4 +1,4 @@
-# steady state mRNA concentration as a function of inducer
+# Steady state mRNA concentration as a function of inducer concentration
 transcription of DNA into mRNA can be influenced by inducer concentration. This project is aimed to explore the relationship between mRNA concentration and inducer concentration in E.coli cells.
 
 # Prerequisites
